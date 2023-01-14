@@ -33,3 +33,6 @@ console.log(root1);
 // passing a Element inside react root
 
 root1.render(container);
+
+
+//const test=<h1 id="root">welcome</h1>
